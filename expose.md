@@ -254,11 +254,66 @@ Die kodierten Quellen wurden matrixartig gegenübergestellt, um:
 
 
 
-### 5. Erwartete Beiträge
 
-Auf Grundlage der Literaturanalyse wird erwartet, dass sich folgende Erkenntnisse ableiten lassen:
+### 5. Erwartete Beiträge und Arbeitshypothesen
 
-- Hohe Glaubwürdigkeit von Influencer\*innen verstärkt die periphere Routen-Verarbeitung bei Rezipient\*innen und erhöht damit die persuasive Kraft von Werbeinhalten — insbesondere bei Produkten, zu denen die Zielgruppe über geringes Vorwissen verfügt (Lou & Yuan, 2019).
+Auf Grundlage der Literaturanalyse werden drei Arbeitshypothesen formuliert, die im Verlauf der Arbeit theoretisch fundiert und durch empirische Befunde untermauert werden:
+
+#### Arbeitshypothese 1 (H1): Dimensions-Spezifität der Werbewirkung
+
+**Behauptung:** Die drei Glaubwürdigkeitsdimensionen wirken unterschiedlich stark auf die persuasive Überzeugung durch Influencer-Werbung.
+
+**Erwartete Effekte:**
+- **Expertise** zeigt den stärksten Effekt bei funktionalen, utilitarischen Produkten (z.B. Nahrungsergänzungsmittel, technische Geräte, Finanzdienstleistungen)
+- **Trustworthiness** dominiert bei risikobehafteten Entscheidungen (z.B. ethisch sensible Produkte, Gesundheitsdienstleistungen, nachhaltige Konsumentscheidungen)
+- **Attractiveness** erzielt die höchste Erklärungskraft bei hedonsitischen, selbstdarstellungsrelevanten Produkten (z.B. Mode, Kosmetik, Lifestyle)
+
+**Begründung:** Die Dimensions-Spezifität basiert auf der unterschiedlichen psychologischen Funktion jeder Dimension (Erdogan, 1999): Expertise signalisiert Produktqualität (Übertragungsmodell), Trustworthiness reduziert wahrgenommenes Risiko, Attractiveness ermöglicht Selbstprojektion und Identifikation (Kelman, 1961).
+
+**Empirisch untermauert durch:** Lee & Koo (2012), Lou & Yuan (2019), Schouten et al. (2020).
+
+#### Arbeitshypothese 2 (H2): Periphere Verarbeitung bei ethisch sensiblen Produkten
+
+**Behauptung:** Bei ethisch sensiblen Produkten (Glücksspiel, Alkohol, NEM) wirkt hohe Influencer-Glaubwürdigkeit verstärkt über die periphere Verarbeitungsroute, was zu unkritischer Akzeptanz führt.
+
+**Erwartete Mechanismen:**
+1. **Reduzierte Risikowahrnehmung:** Glaubwürdigkeit der Quelle dient als Heuristik ("Eine vertrauenswürdige Person würde nichts Gefährliches bewerben")
+2. **Unterdrückung kognitiver Elaboration:** Produktrisiken werden peripher verarbeitet und nicht zentral reflektiert
+3. **Attribution der Verantwortung:** Risiko wird auf die vertrauenswürdige Quelle externalisiert
+4. **Langfristige Verhaltensänderung:** Potenziell verstärktes riskantes Verhalten durch wiederholte Exposition
+
+**Begründung:** Ethisch sensible Produkte werden häufig mit geringem Involvement konsumiert (potenzielle Schäden liegen in der Zukunft). Gleichzeitig activiert Quellenglaubwürdigkeit die Verfügbarkeitsheuristik (Tversky & Kahneman, 1974), die Selbstecht reduziert und periphere Verarbeitung verstärkt (Griffiths, 2005; Gainsbury et al., 2016).
+
+#### Arbeitshypothese 3 (H3): Moderierende Rolle parasozialer Beziehungen
+
+**Behauptung:** Die Stärke der parasozialen Beziehung zwischen Influencer und Follower moderiert den Effekt der Glaübigerkeit auf die Werbewirkung.
+
+**Erwartete Moderationseffekte:**
+- **Bei starker parasozialer Bindung:** Verstärkte Wirkung von Trustworthiness auf die Akzeptanz ethisch sensibler Produkte; emotionale Nähe überlagert rationale Risikobewertung
+- **Bei schwacher Bindung:** Dimensions-spezifische Effekte (H1) dominieren; weniger "Blindfold-Trust"
+- **Risiko der Instrumentalisierung:** Influencer nutzen bewusst die parasoziale Bindung zur peripheren Überzeugung
+
+**Begründung:** Parasoziale Interaktionen erzeugen emotionale Nähe und Vertrauen, das über rationale Bewertung hinausgeht (Horton & Wohl, 1956; De Veirman et al., 2017). Diese Bindung fungiert als kognitiver Shortcut, der die periphere Verarbeitungsroute verstärkt (sogar bei motivierten Rezipienten; Schouten et al., 2020).
+
+#### Zusammenführung: Ein integriertes Wirkmodell
+
+Die drei Hypothesen lassen sich in ein konsistentes theoretisches Modell integrieren:
+
+**Input:** Influencer-Glaübigerkeit (Expertise × Trustworthiness × Attractiveness)
+→ **Moderator:** Stärke der parasozialen Beziehung
+→ **Prozess:** Aktivierung der peripheren Verarbeitungsroute (bei niedrigem Involvement oder ethischen sensiblen Produkten)
+→ **Mechanismus:** Heuristische Verfügbarkeit, reduzierte Elaboration, Externalisierung des Risikos
+→ **Outcome:** Änderung der Einstellung, Verhaltensintention, reduzierte Risikowahrnehmung
+→ **Implikation:** Verantwortungsfragen bei unternehmerischer Auswahl und regulatorischer Regulierung
+
+#### Erwartete wissenschaftliche Beiträge
+
+1. **Theoretische Integration:** Synthese von Source-Credibility-Modell, ELM und parasozialen Beziehungen zu einem kontextualisierten Wirkmodell für Influencer-Marketing.
+
+2. **Empirische Systematisierung:** Zusammenführung der fragmentierten Forschung zu Glaübigerkeit über verschiedene Produktkategorien und kulturelle Kontexte hinweg.
+
+3. **Normative Ableitungen:** Konkrete Handlungsempfehlungen für unternehmerische Praxis (Influencer-Auswahl, Kampagnen-Design) und regulatorische Politik (Kennzeichnungs-pflichten, Altersbeschränkungen, Verbraucherschutz).
+
 
 - Für ethisch sensible Produkte — etwa Glücksspiel — senkt die Glaubwürdigkeit des Influencers die Risikowahrnehmung der Zielgruppe und erzeugt eine höhere unkritische Akzeptanz der Werbebotschaft (Gainsbury et al., 2016).
 
