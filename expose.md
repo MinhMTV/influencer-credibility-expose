@@ -30,6 +30,96 @@ Die theoretische Fundierung der Arbeit stützt sich auf zwei zentrale Modelle de
 
 **Zusammenführung beider Modelle.** In Kombination liefern die beiden Modelle ein schlüssiges Erklärungsmodell: Das Source-Credibility-Modell identifiziert die relevanten Dimensionen der Quellenglaubwürdigkeit, während das ELM erklärt, *warum* und *über welchen Mechanismus* diese Glaubwürdigkeit die Werbewirkung beeinflusst. Insbesondere bei Produkten mit geringem Involvement oder bei ethisch sensiblen Themen, bei denen eine kritische Auseinandersetzung mit der Botschaft unterbleibt, verstärkt sich die periphere Routen-Verarbeitung. Dies kann dazu führen, dass Influencer-Werbung für Glücksspiel oder andere riskante Produkte von der Zielgruppe unkritisch akzeptiert wird.
 
+#### 3.1 Historische und theoretische Genese des Source-Credibility-Modells
+
+Die systematische Erforschung der Quellenglaubwürdigkeit begann mit den experimentellen Studien von Hovland und Weiss (1951) an der Yale University im Rahmen des Yale Communication Research Program. Ihre Untersuchungen zur Wirkung propagandistischer Botschaften im Zweiten Weltkrieg und der Nachkriegszeit bildeten die methodologische Grundlage.
+
+**Kernbefunde der Hovland-Studien:**
+
+Hovland und Webb (1951) konnten zeigen, dass identische Botschaften je nach wahrgenommener Glaubwürdigkeit der Quelle unterschiedlich persuasiv wirken. Hoch-glaubwürdige Quellen (z.B. renommierte Wissenschaftler) erzielten signifikant höhere Einstellungsänderungen als weniger glaubwürdige Quellen (z.B. bezahlte Sprecher). Bemerkenswert ist der *Sleeper-Effekt*: Die Glaubwürdigkeitswirkung manifestierte sich auch bei verzögerten Messungen (4 Wochen post-exposure), wenn die Quelle zunächst skeptisch bewertet wurde.
+
+Die theoretische Grundlage bildet die *cognitive miser*-Annahme: Rezipienten nutzen Heuristiken wie Quellenglaubwürdigkeit, um Verarbeitungskosten zu minimieren (Chaiken, 1980).
+
+#### 3.2 Operationalisierung: Die Ohanian-Endorser-Credibility-Skala
+
+Aufbauend auf Hovlands foundations entwickelte Ohanian (1990) das empirisch am häufigsten eingesetzte Messinstrument für Prominenten-Glaubwürdigkeit. Die Skala erfasst drei latente Dimensionen mit je fünf Items (7-stufige Likert-Skala).
+
+**Dimensionen und Beispielitems:**
+
+| Dimension | Definition | Beispielitems | Reliabilität |
+|-----------|------------|---------------|--------------|
+| **Expertise** | Fachliche Kompetenz | experienced, knowledgeable, qualified | α = .89 |
+| **Trustworthiness** | Vertrauenswürdigkeit | dependable, sincere, trustworthy, honest | α = .91 |
+| **Attractiveness** | Physische Attraktivität | attractive, classy, elegant, sexy | α = .86 |
+
+Die Faktorenstruktur wurde durch konfirmatorische Faktorenanalysen (CFA) über verschiedene Kontexte (Beauty, Technik, Dienstleistungen) validiert. Die Interkorrelationen (r = .45–.65) weisen auf konzeptuelle Verwandtschaft, aber empirische Unterscheidbarkeit hin.
+
+**Dimensionspezifische Wirkmechanismen:**
+
+- *Expertise* dominiert bei utilitarischen Produkten mit hohem Involvement (z.B. Finanzdienstleistungen, Versicherungen). Die Wirkung basiert auf dem Übertragungsmodell: Die Expertise signalisiert implizit die Qualität des beworbenen Produkts (Erdogan, 1999).
+- *Trustworthiness* zeigt den stärksten Effekt bei risikobehafteten Entscheidungen (z.B. Gesundheitsprodukte, nachhaltige Konsumentscheidungen). Vertrauen reduziert wahrgenommenes Risiko und ermöglicht kognitive Entlastung.
+- *Attractiveness* ist prädiktiv für hedonsitische, selbstdarstellungsrelevante Produkte (Kosmetik, Mode, Lifestyle). Die Wirkung basiert auf Identifikation und Selbstprojektion in die beworbene Lebensweise (Kelman, 1961).
+
+#### 3.3 Das Elaboration Likelihood Model: Routen und Bedingungen
+
+Petty und Cacioppo (1986) postulieren zwei alternative Verarbeitungsrouten, die durch unterschiedliche Bedingungen aktiviert werden:
+
+**Vergleich der Verarbeitungsrouten:**
+
+| Aspekt | Zentrale Route | Periphere Route |
+|--------|---------------|-----------------|
+| **Kognitive Tiefe** | Hoch (systematisch) | Niedrig (heuristisch) |
+| **Informationsbasis** | Sachargumente, Qualität | Oberflächliche Cues (Quelle, Likes) |
+| **Voraussetzungen** | Motivation + Fähigkeit | Geringes Involvement, Zeitdruck |
+| **Einstellungsstabilität** | Hoch, vorhersagbar | Niedrig, kontextabhängig |
+| **Verhaltensrelevanz** | Stark | Moderat |
+
+**Glaubwürdigkeit als periphere Heuristik:**
+
+Bei der peripheren Verarbeitung fungiert Quellenglaubwürdigkeit als *availability heuristic*: "Wenn eine glaubwürdige Quelle es empfiehlt, muss es gut sein." Diese Heuristik reduziert kognitive Elaboration — besonders problematisch bei ethisch sensiblen Produkten wie Glücksspiel, wo kritische Prüfung geboten wäre.
+
+#### 3.4 Kritische Übertragung auf Influencer-Marketing
+
+Die Anwendung beider Modelle auf Influencer-Marketing erfordert kontextspezifische Erweiterungen:
+
+**Differenzierte Glaubwürdigkeitsdimensionen:**
+
+| Traditionelles Modell | Influencer-spezifische Erweiterung |
+|----------------------|-----------------------------------|
+| Expertise (formal) | Alltagsexpertise durch kontinuierlichen Content |
+| Trustworthiness | Authentizität, Transparenz über Bezahlung |
+| Attractiveness | + Lifestyle-Attraktivität, Identifikation |
+
+**Parasoziale Beziehungen als Moderator:**
+
+Die Forschung zu parasozialen Interaktionen (Horton & Wohl, 1956; De Veirman et al., 2017) ergänzt das Modell: Follower entwickeln zu Influencern einseitige, intime Beziehungen, die über rationale Bewertung hinausgehen. Diese parasoziale Bindung verstärkt die Trustworthiness-Wirkung und triggert periphere Verarbeitung selbst bei motivierten Rezipienten (Schouten et al., 2020).
+
+**Authentizität als zusätzliche Dimension:**
+
+Neuere Studien (e.g., Lou & Yuan, 2019) identifizieren *perceived authenticity* als vierte, eigenständige Dimension, die die klassischen drei überlagert. Authentizität moderiert die Wirkung: Selbst hochglaubwürdige Influencer verlieren bei erkanntem Product-Placecement-anarrangement-Verstoß an Überzeugungskraft.
+
+#### 3.5 Integration: Ein konzeptionelles Wirkmodell
+
+Die Synthese beider Modelle für diese Arbeit lässt sich wie folgt skizzieren:
+
+```
+Influencer-Glaubwürdigkeit (Expertise × Trustworthiness × Attractiveness)
+                    ↓
+         [Moderator: Parasoziale Bindung]
+                    ↓
+    Wahrnehmung als glaubwürdige Quelle
+                    ↓
+         ╔═══════════════════════╗
+         ║  Niedriges Involvement ║ → Periphere Route → Heuristik-Nutzung
+         ╚═══════════════════════╝
+                    ↓
+    Reduzierte kritische Prüfung → Höhere Überzeugung
+                    ↓
+    [Riskant bei: Glücksspiel, NEM, Alkohol]
+```
+
+**Zentrale Annahme dieser Arbeit:** Bei ethisch sensiblen Produkten senkt hohe Influencer-Glaubwürdigkeit die Risikowahrnehmung und führt zu unkritischer Akzeptanz über die periphere Verarbeitungsroute — unabhängig von sachlichen Produktinformationen.
+
 ### 4. Methodisches Vorgehen
 
 Die vorliegende Bachelorarbeit verfolgt einen rein literaturbasierten Ansatz. Auf Grundlage einer systematischen Recherche und Auswertung der vorhandenen Forschungsliteratur werden die theoretischen Zusammenhänge zwischen Influencer-Glaubwürdigkeit, persuasiver Werbewirkung und Verantwortung im Influencer-Marketing dargestellt und analysiert.
