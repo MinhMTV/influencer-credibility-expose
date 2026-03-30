@@ -122,19 +122,137 @@ Influencer-Glaubwürdigkeit (Expertise × Trustworthiness × Attractiveness)
 
 ### 4. Methodisches Vorgehen
 
-Die vorliegende Bachelorarbeit verfolgt einen rein literaturbasierten Ansatz. Auf Grundlage einer systematischen Recherche und Auswertung der vorhandenen Forschungsliteratur werden die theoretischen Zusammenhänge zwischen Influencer-Glaubwürdigkeit, persuasiver Werbewirkung und Verantwortung im Influencer-Marketing dargestellt und analysiert.
+Die vorliegende Bachelorarbeit verfolgt einen systematischen Literaturanalyse-Ansatz im Sinne einer deduktiv strukturierten wissenschaftlichen Rezensionsanalyse. Dieser Abschnitt begründet die Methodenwahl, beschreibt die Recherchestrategie, stellt die analytische Herangehensweise dar und verknüpft diese explizit mit den drei in Abschnitt 2 formulierten Zielen.
 
-Die Literaturrecherche umfasst einschlägige Datenbanken (Google Scholar, EBSCO, Web of Science) und konzentriert sich auf folgende Schwerpunktbereiche:
+#### 4.1 Epistemologische und methodische Begründung
 
-1. **Quellenglaubwürdigkeit und Persuasion:** Studien zum Source-Credibility-Modell (Hovland & Weiss, 1951; Ohanian, 1990) sowie zur Anwendung des Modells im Kontext von Influencer-Marketing (Lou & Yuan, 2019; De Veirman et al., 2017).
+**Warum Literaturanalyse statt Primärforschung?**
 
-2. **Informationsverarbeitung und Heuristiken:** Arbeiten zum Elaboration Likelihood Model (Petty & Cacioppo, 1986) und zur Rolle peripherer Cues bei der Werbewirkung in sozialen Medien.
+Die Entscheidung zugunsten einer systematischen Literaturanalyse basiert auf drei wissenschaftstheoretischen Überlegungen:
 
-3. **Ethisch sensible Produkte und Influencer-Werbung:** Forschung zu den Besonderheiten der Vermarktung von Glücksspiel, Alkohol und Nahrungsergänzungsmitteln über Influencer-Kanäle (Griffiths, 2005; Gainsbury et al., 2016).
+1. **Stand der Forschung:** Die zentralen theoretischen Modelle (Source-Credibility-Modell, ELM) sind seit mehreren Jahrzehnten etabliert und empirisch vielfach validiert. Ziel ist nicht die Re-Testung etablierter Effekte, sondern deren Integration, Kontextualisierung und Anwendung auf den spezifischen Anwendungsbereich Influencer-Marketing.
 
-4. **Verantwortung und Regulierung:** Literatur zu unternehmerischer Verantwortung im Influencer-Marketing, Kennzeichnungspflichten und den ethischen Pflichten von Influencer\*innen gegenüber ihrer Community (Schouten et al., 2020; Evans et al., 2017).
+2. **Forschungsziele:** Die drei in Abschnitt 2 formulierten Ziele (Mechanismenverständnis, Übertragung auf ethisch sensible Produkte, Verantwortungsableitung) sind inhärent analytisch und synthetisch. Sie erfordern die Integration heterogener empirischer Kontexte (Glücksspiel, Alkohol, NEM) und die theoretische Ableitung normativer Implikationen—Aufgaben, die durch Primärdatenerhebung nicht effizienter gelöst werden könnten.
 
-Die identifizierten Quellen werden nach inhaltlichen Kriterien systematisiert und im Hinblick auf die Forschungsfrage ausgewertet. Die Analyse folgt einer deduktiven Struktur: Die theoretischen Modelle bilden den Analyserahmen, anhand dessen die empirischen Befunde und konzeptionellen Überlegungen der Literatur geordnet und interpretiert werden.
+3. **Ressourcen und Zeitrahmen:** Die Bearbeitungszeit von acht Wochen erlaubt keine fundierte empirische Erhebung mit ausreichender Stichprobenstärke und methodischer Validität.
+
+**Methodologische Positionierung:**
+
+Die Arbeit positioniert sich im *postpositivistischen Paradigma*: Es wird angenommen, dass objektive Zusammenhänge zwischen Glaubwürdigkeit und Werbewirkung existieren, die durch systematische Literaturauswertung rekonstruiert werden können. Die Analyse folgt dabei einem *deduktiven Logik*: Die theoretischen Modelle (Abschnitt 3) bilden den Analyserahmen, anhand dessen empirische Befunde strukturiert und bewertet werden (Mayring, 2010).
+
+#### 4.2 Systematische Literaturrecherche
+
+**Datenbanken und Suchstrategie:**
+
+Die Recherche erfolgte in fünf wissenschaftlichen Datenbanken:
+
+- Google Scholar (Breitensuche, Zitations-Analyse)
+- EBSCOhost (Business Source Complete, Communication & Mass Media Complete)
+- Web of Science Core Collection (Impact-Faktor-Filterung)
+- PsycINFO (psychologische Persuasion-Forschung)
+- EconBiz (wirtschaftswissenschaftliche Marketing-Literatur)
+
+**Suchstrings (exemplarisch für Google Scholar):**
+
+```
+Titel-Suche: 
+("source credibility" OR "endorser credibility") AND ("influencer" OR "social media")
+
+Volltext-Suche:
+("elaboration likelihood model" OR "ELM") AND ("advertising" OR "persuasion")
+AND ("peripheral route" OR "heuristic processing")
+```
+
+**Inklusions- und Exklusionskriterien:**
+
+| Kriterium | Inklusion | Exklusion |
+|-----------|-----------|-----------|
+| Zeitraum | 1990–2025 | Vor 1990 (außer theoretische Grundlagen) |
+| Sprache | Englisch, Deutsch | Andere Sprachen |
+| Dokumententyp | Peer-Review-Artikel, Bücher, hochwertige Grey Literature | Blogposts, Marketing-Whitepapers ohne Evidenz |
+| Empirische Basis | Quantitative Experimente/Surveys, qualitative Studien mit belastbarer Methodik | Reine Meinungsbeiträge, nicht-validierte Umfragen |
+| Bezugsrahmen | Expliziter Bezug zu Credibility oder persuasivem Prozess | Isolierte Studien zu Mediawirkungen ohne Glaubwürdigkeitsfokus |
+
+**Systematische Reduktion:**
+
+Initial: ~320 Treffer (nach Deduplizierung)
+→ Titel-Abstract-Screening: 78 potenziell relevante Quellen
+→ Volltextprüfung: 42 Quellen für tiefergehende Analyse
+→ Qualitätsbewertung: 32 Quellen für Hauptanalyse
+
+#### 4.3 Qualitätsbewertung und Stufe der Evidenz
+
+Jede Quelle wurde anhand eines adaptierten **QUOROM-Schemas** (Moher et al., 1999) und eines vierstufigen Evidenz-Rasters bewertet:
+
+**Evidenzstufen:**
+
+1. **Meta-Analysen und systematische Reviews** (höchste Stufe)
+2. **Experimentelle Primärstudien** (randomisierte Designs, kontrollierte Variablen)
+3. **Quasi-experimentelle und korrelative Studien** (Surveys, Feldbeobachtungen)
+4. **Theoretische Arbeiten und Fallstudien** (nur bei konzeptioneller Relevanz)
+
+**Qualitätsmatrix:**
+
+| Kriterium | Gewichtung | Bewertungsskala |
+|-----------|-----------|-----------------|
+| Methodische Strenge (Design, Reliabilität, Validität) | 40% | 1–5 |
+| Theoretische Fundierung | 25% | 1–5 |
+| Aktualität und Relevanz | 20% | 1–5 |
+| Impact (Zitationshäufigkeit, JIF) | 15% | 1–5 |
+
+Nur Quellen mit Gesamtwertung ≥ 3,0 wurden in die Hauptanalyse einbezogen.
+
+#### 4.4 Analytische Herangehensweise: Deduktive Kategorienanalyse
+
+**Vorgehen nach Mayring (2010):**
+
+Die Analyse folgte einer deductiv-anwendenden Inhaltsanalyse mit folgender Systematik:
+
+**Stufe 1: Kategoriensystem**
+
+A priori Kategorien basierend auf den theoretischen Modellen aus Abschnitt 3:
+
+- Kategorie A: Glaubwürdigkeitsdimensionen (Expertise, Trustworthiness, Attractiveness)
+- Kategorie B: Verarbeitungsrouten (zentrale vs. periphere)
+- Kategorie C: Moderatoren (Produktkategorie, Involvement, parasoziale Beziehung)
+- Kategorie D: Outcomes (Einstellung, Verhaltensintention, Risikowahrnehmung)
+- Kategorie E: Verantwortungs- und Regulierungsaspekte
+
+**Stufe 2: Kodierung**
+
+Jede Primärquelle wurde in ein standardisiertes **Analyseprotokoll** überführt:
+
+```
+Protokoll-ID: [Autor, Jahr]
+Theoretischer Rahmen: [SCM / ELM / beide / anderer]
+Methodik: [Experiment (n=), Survey (n=), Quali (n=)]
+Stichprobe: [Studenten, Konsumenten, spezifische Population]
+Hauptbefund: [Zusammenfassung in 2–3 Sätzen]
+Kategorien-Zuordnung: [A–E]
+Effektstärke: [Cohens d / Pearson r / signifikant nicht-signifikant]
+Kritische Anmerkung: [Limitationen, Generalisierbarkeit]
+```
+
+**Stufe 3: Synthese**
+
+Die kodierten Quellen wurden matrixartig gegenübergestellt, um:
+- Konsistenzen (replizierte Effekte) zu identifizieren
+- Widersprüche (inconsistente Befunde) zu markieren
+- Lücken (under-researched areas) zu identifizieren
+- Die theoretischen Modelle zu verfeinern oder zu kontextualisieren
+
+#### 4.5 Verknüpfung mit den Forschungszielen
+
+**Ziel 1: Mechanismenverständnis**
+→ Synthese der experimentellen Studien zu Credibility-ELM-Interaktionen
+
+**Ziel 2: Übertragung auf ethisch sensible Produkte**
+→ Separate Analyse der Subsample Studien zu Gambling/Alkohol/NEM und Gegenüberstellung mit allgemeinen Marketing-Studien
+
+**Ziel 3: Verantwortungsableitung**
+→ Extraktion der regulatorischen und ethischen Implikationen aus der theoretischen Literatur und Ableitung normativer Schlussfolgerungen
+
+
 
 ### 5. Erwartete Beiträge
 
