@@ -20,6 +20,23 @@ Die zentrale Forschungsfrage der vorliegenden Bachelorarbeit lautet:
 
 Die Arbeit verfolgt dabei drei Ziele: Erstens soll auf Grundlage der bestehenden Forschungsliteratur aufgeklärt werden, über welche Mechanismen Influencer-Glaubwürdigkeit die Werbewirkung beeinflusst. Zweitens sollen die gewonnenen Erkenntnisse auf die besonderen Herausforderungen der Vermarktung ethisch sensibler Produkte übertragen werden, wobei die Bewerbung von Glücksspiel als illustratives Fallbeispiel dient. Drittens soll aus den theoretischen Erkenntnissen abgeleitet werden, welche Verantwortung Unternehmen und Influencer\*innen im Kontext glaubwürdigkeitsbasierter Werbewirkung tragen.
 
+### Kurzgliederung
+
+Die Bachelorarbeit gliedert sich in sechs Hauptkapitel:
+
+**1. Einleitung:** Problemstellung, Relevanz von Influencer-Marketing, ethische Problemfelder.
+
+**2. Forschungsstand:** Systematische Literaturübersicht zu Source Credibility und parasozialen Beziehungen.
+
+**3. Theoretischer Rahmen:** SCM (Hovland/Ohanian), ELM (Petty/Cacioppo), Integration beider Modelle.
+
+**4. Methodik:** Begründung der Literaturanalyse, Recherchestrategie, Qualitätsbewertung, Kategorienanalyse.
+
+**5. Analyse:** Prüfung der drei Hypothesen, Befundesynthese, Gegenüberstellung konsistenter/widersprüchlicher Ergebnisse.
+
+**6. Schlussfolgerungen:** Ableitung unternehmerischer, individueller und regulatorischer Verantwortung.
+
+
 ### 3. Theoretischer Rahmen
 
 Die theoretische Fundierung der Arbeit stützt sich auf zwei zentrale Modelle der Kommunikations- und Persuasionsforschung.
