@@ -21,3 +21,15 @@ Ohanian, R. (1990). Construction and Validation of a Scale to Measure Celebrity 
 Petty, R. E. & Cacioppo, J. T. (1986). The Elaboration Likelihood Model of Persuasion. *Advances in Experimental Social Psychology*, 19, 123–205. https://doi.org/10.1016/S0065-2601(08)60214-2
 
 Schouten, A. P., Janssen, L. & Verspaget, M. (2020). Celebrity vs. Influencer Endorsements in Advertising: The Role of Identification, Credibility, and Product-Endorser Fit. *International Journal of Advertising*, 39(2), 258–281. https://doi.org/10.1080/02650487.2019.1634898
+
+## Verantwortungsethik (Kap. 3.6)
+
+Bayertz, K. (Ed.). (1995). *Verantwortung: Prinzip oder Problem?* Suhrkamp.
+
+Jonas, H. (1979). *Das Prinzip Verantwortung: Versuch einer Ethik für die technologische Zivilisation*. Suhrkamp.
+
+Rippe, K. P. (2001). Verantwortung und Vertrauen: Zur ethischen Dimension der modernen Gesellschaft. *Landschaft der Gegenwart*, 2, 45–62.
+
+Rippe, K. P. (2010). Politische Verantwortung: Institutionelle Rahmenbedingungen individueller Verantwortungsübernahme. In G. Willems et al. (Eds.), *Politik und Ethik* (S. 115–138). Reimer.
+
+Tversky, A. & Kahneman, D. (1974). Judgment under Uncertainty: Heuristics and Biases. *Science*, 185(4157), 1124–1131. https://doi.org/10.1126/science.185.4157.1124

@@ -137,6 +137,55 @@ Influencer-Glaubwürdigkeit (Expertise × Trustworthiness × Attractiveness)
 
 **Zentrale Annahme dieser Arbeit:** Bei ethisch sensiblen Produkten senkt hohe Influencer-Glaubwürdigkeit die Risikowahrnehmung und führt zu unkritischer Akzeptanz über die periphere Verarbeitungsroute — unabhängig von sachlichen Produktinformationen.
 
+### 3.6 Verantwortung als theoretischer Rahmen
+
+Zur systematischen Analyse der Verantwortungsfragen wird das Exposé um einen **theoretischen Verantwortungsrahmen** ergänzt, der die Verantwortungsstruktur nach dem klassischen Modell der Verantwortungsethik (Jonas, 1979; Bayertz, 1995; Rippe, 2001) analysiert:
+
+**Die fünf Strukturelemente der Verantwortung:**
+
+| Element | Definition | Anwendung im Influencer-Marketing |
+|---------|------------|-----------------------------------|
+| **Subjekt** | Wer trägt Verantwortung? | Unternehmen (UN), Influencer, Konsumenten, Plattformen, Regulierer |
+| **Objekt** | Wofür wird Verantwortung getragen? | Produktdarstellung, Informationsvermittlung, Risikowahrnehmung, adäquate Entscheidungsgrundlagen |
+| **Instanz** | Wer sanktioniert bei Verfehlungen? | Öffentliche Instanzen (Staat, Gerichte, Regulierer), private Instanzen (Wettbewerbszentrale, Plattformen), moralische Instanz (Gewissen, Community-Backlash) |
+| **Adressat** | Für wen wird Verantwortung getragen? | Unmittelbare Adressaten (Follower, Konsumenten), mittelbare Adressaten (Gesellschaft, vulnerable Gruppen, zukünftige Generationen) |
+| **Regelwerk** | Nach welchen Kriterien wird bewertet? | Gesetzliche Normen (UWG, Medienstaatsvertrag, Glücksspielrecht), soziale Normen (Branchenstandards, Community-Erwartungen), individuelle Werte (Authentizität, Integrität) |
+
+**Spezifische Verantwortungsbeziehungen:**
+
+#### Unternehmerische Verantwortung (UN als Subjekt)
+- **Subjekt:** Unternehmen als Auftraggeber und Kampagnenverantwortliche
+- **Objekt:** Produktwahrheitsgemäße Darstellung, ausreichende Risikoinformation bei ethisch sensiblen Produkten, transparente Influencer-Auswahl, Sorgfalt bei der Produktpräsentation
+- **Instanz:** Wettbewerbsrecht (UWG), strafrechtliche Verantwortlichkeit bei Gesetzesverstößen, markenrechtliche Konsequenzen bei Rufschädigung, öffentliche Sanktion durch Medien und Shitstorms
+- **Adressat:** Unmittelbar: Influencer und deren Community; Mittelbar: Gesellschaftliche Integrität, Verbraucherschutz, vulnerable Gruppen
+- **Begründung:** Unternehmen kontrollieren Produktinformation und Kampagnendesign; sie besitzen strukturelle Macht über die Darstellung. Sie haben Möglichkeiten zur Risikominimierung durch adäquate Produktbeschreibung und transparente Werbekennzeichnung.
+
+#### Konsumentenverantwortung (als Subjekt)
+- **Subjekt:** Konsumenten als adressierte Empfänger von Werbeinhalten
+- **Objekt:** Aktive Informationsbeschaffung zu Produktherstellung, Inhaltsstoffen, Risiken; kritische Reflexion über Influencer-Empfehlungen; selbstbestimmte Entscheidung aufgrund umfassender Information
+- **Instanz:** Privat (eigenes Risikobewusstsein, finanzielle Konsequenzen, Gesundheitsfolgen), öffentlich (Verbraucherschutzorganisationen, Medienberichterstattung, Sozialkontrolle durch Peers)
+- **Adressat:** Eigene Person (Selbstschutz, finanzielle/unterstützte Absicherung), Familie (Solidarität), Gesellschaft (nachhaltiges Konsumverhalten)
+- **Begründung:** Konsumenten haben Handlungsmöglichkeiten durch Recherche, technische Tools (Preisvergleiche, Bewertungsplattformen), kollektive Organisation (Verbraucherschutzverbände). Die Informationsasymmetrie im Influencer-Marketing erzeugt jedoch *reduzierte Verantwortungsfähigkeit*, die durch die periphere Verarbeitungsroute (siehe ELM) systematisch verstärkt wird.
+
+#### Influencer-Verantwortung (als Subjekt)
+- **Subjekt:** Influencer als kommunikative Mittler zwischen Unternehmen und Community
+- **Objekt:** Authentizität, transparente Kennzeichnung bezahlter Inhalte, ethische Grenzziehung bei Produktempfehlungen (insbesondere Glücksspiel, NEM), wahrheitsgemäße Darstellung eigener Erfahrungen
+- **Instanz:** Öffentlich (Plattform-Algorithmen, Shadowbans, rechtliche Sanktionen nach UWG/Medienstaatsvertrag), privat (Follower-Abwanderung, Reputationsverlust, Kooperationsverlust), moralisch (Eigenstandards, berufsethische Codes, Gewissen)
+- **Adressat:** Unmittelbar: Follower (Vertrauensbeziehung); Mittelbar: vulnerable Gruppen (Jugendliche, risikoanfällige Personen, suchtgefährdete Personen bei Glücksspielwerbung)
+- **Begründung:** Influencer bauen parasoziale Beziehungen auf, die Vertrauen generieren. Das strukturelle Machtgefälle (Reichweite vs. einzelner Follower) begründet erhöhte Sorgfaltspflicht. Die Instrumentalisierung parasozialer Bindung für ethisch problematische Produkte erzeugt *asymmetrische Verantwortung*.
+
+**Integration in das Wirkmodell:**
+Die Verantwortungsanalyse ergänzt das konzeptionelle Wirkmodell (Kap. 3.5) um die normative Dimension:
+
+**Kritische Annahme:** Die systematische Aktivierung der peripheren Route durch hochglaubwürdige Influencer bei ethisch sensiblen Produkten erzeugt eine strukturelle Verantwortungslücke: Die individuelle Eigenverantwortung (Konsument) ist durch reduzierte Elaborationsfähigkeit geschwächt, während die strukturelle Verantwortung (Unternehmen/Influencer) aufgrund ihrer Handlungsmacht verstärkt greifen muss (*Jonas 1979: Prinzip der Vorsorge*).
+
+**Normative Bewertung:**
+Nach dem Verantwortungsmodell wird Verantwortung dann akzeptiert, wenn:
+1. Das Subjekt **Handlungsmacht** besitzt (Kontrolle über Darstellung/Auswahl/Regulierung)
+2. Ein **Regelverstoß** identifizierbar ist (Transparenzpflichten, Sorgfaltspflichten, Schutzpflichten)
+3. Ein **Adressat** schutzbedürftig ist (Follower mit parasozialer Bindung, vulnerable Gruppen)
+4. Eine **Instanz** Sanktionen verhängen kann (Recht, Öffentlichkeit, Plattformen)
+
 ### 4. Methodisches Vorgehen
 
 Die vorliegende Bachelorarbeit verfolgt einen systematischen Literaturanalyse-Ansatz im Sinne einer deduktiv strukturierten wissenschaftlichen Rezensionsanalyse. Dieser Abschnitt begründet die Methodenwahl, beschreibt die Recherchestrategie, stellt die analytische Herangehensweise dar und verknüpft diese explizit mit den drei in Abschnitt 2 formulierten Zielen.
@@ -338,20 +387,65 @@ Die drei Hypothesen lassen sich in ein konsistentes theoretisches Modell integri
 
 ### 6. Implikationen für Verantwortung
 
-Die theoretischen Erkenntnisse lassen sich auf drei Ebenen der Verantwortung verorten:
+Die Erkenntnisse aus den theoretischen Modellen (Kap. 3.1–3.5) werden im Folgenden anhand des systematischen Verantwortungsrahmens (Kap. 3.6) konkretisiert. Die drei Ebenen der Verantwortung werden nach den fünf Strukturelementen (Subjekt–Objekt–Instanz–Adressat–Regelwerk) analysiert.
 
-#### 6.1 Unternehmerische Verantwortung
+#### 6.1 Unternehmerische Verantwortung (UN)
 
-Die starke Wirkung der peripheren Route legt nahe, dass Unternehmen bei der Auswahl von Influencer\*innen eine besondere Verantwortung tragen. Die systematische Auswahl auf Basis der Glaubwürdigkeitsdimensionen (Expertise, Trustworthiness, Attractiveness) kann zwar die Werbewirkung verbessern — sie birgt jedoch zugleich das Risiko, dass hohe Glaubwürdigkeit dazu genutzt wird, unkritische Rezeption zu erzeugen. Bei ethisch sensiblen Produkten sollten Unternehmen daher nicht nur die Werbewirksamkeit, sondern auch die gesellschaftlichen Folgen ihrer Influencer-Auswahl berücksichtigen (Evans et al., 2017). Zudem unterstreicht die periphere Routen-Verarbeitung die Notwendigkeit verpflichtender Kennzeichnungspflichten für bezahlte Inhalte, da Rezipient\*innen bei fehlender Transparenz Werbung als authentische Empfehlung wahrnehmen können.
+**Subjekt:** Unternehmen als Auftraggeber und Kampagnenverantwortliche besitzen strukturelle Handlungsmacht über Produktpräsentation und Influencer-Auswahl.
+
+**Objekt:** Verantwortung wird getragen für wahrheitsgemäße Produktdarstellung, Risikoinformation bei ethisch sensiblen Produkten (insbesondere Glücksspiel), und die Avoidanz der Instrumentalisierung high-credibility-Influencer zur Umgehung kritischer Verarbeitung.
+
+**Instanz:** Sanktionierung erfolgt durch öffentliches Recht (UWG §§ 4, 5 — irreführende Werbung; Medienstaatsvertrag § 7), private Instanzen (Wettbewerbszentralen, Ethikräte), und öffentliche/moralische Instanz (Shitstorms, Reputationsschaden).
+
+**Adressat:** Unmittelbarer Adressat ist die Follower-Community; mittelbarer Adressat sind vulnerable Gruppen (Jugendliche, risikogene Bevölkerungsgruppen bei Glücksspiel) und die gesellschaftliche Integrität.
+
+**Regelwerk:** Bewertung nach gesetzlichen Normen (UWG, Medienstaatsvertrag, Glücksspielstaatsverträge), branchenspezifischen Codes (IG Influencer, DDV), und internen Werten (CSR, Nachhaltigkeitsziele).
+
+**Implikation:** Die starke Wirkung der peripheren Route bei high-credibility-Influencern erzeugt eine *strukturelle Verantwortungsasymmetrie*: Je höher die Glaubwürdigkeit, desto geringer die kognitive Elaboration der Konsumenten (H2). Unternehmen müssen daher bei ethisch sensiblen Produkten die gesellschaftlichen Folgen ihrer Influencer-Auswahl stärker gewichten als bloße CTR-Optimierung (Evans et al., 2017).
 
 #### 6.2 Verantwortung der Influencer\*innen
 
-Das Vertrauensverhältnis zwischen Influencer\*in und Community stellt eine besondere Form sozialer Verantwortung dar. Wenn Influencer\*innen ihre Glaubwürdigkeit — aufgebaut durch Authentizität und parasoziale Bebindung — für die Vermarktung ethisch sensibler Produkte einsetzen, nutzen sie bewusst den Mechanismus der peripheren Routen-Verarbeitung aus. Dies wirft die Frage auf, inwieweit Influencer\*innen eine Verpflichtung haben, ehrlich mit ihrer Community umzugehen und das Vertrauen ihrer Follower\*innen nicht für die Vermarktung risikoreicher Produkte zu instrumentalisieren. Die Forschung deutet darauf hin, dass die Transparenz über bezahlte Partnerschaften das Vertrauen in Influencer\*innen zwar kurzfristig reduzieren kann, langfristig jedoch die Glaubwürdigkeit und damit auch die nachhaltige Werbewirkung stärkt (Schouten et al., 2020).
+**Subjekt:** Influencer als kommunikative Mittler mit parasozialer Macht durch aufgebautes Vertrauen.
+
+**Objekt:** Verantwortung für transparente Kennzeichnung bezahlter Inhalte (§ 7 Medienstaatsvertrag), ethische Grenzziehung bei Produktempfehlungen (Glücksspiel, NEM), wahrheitsgemäße Darstellung eigener Erfahrungen.
+
+**Instanz:** Öffentliche Instanzen (Plattform-Algorithmen, Shadowbans, rechtliche Sanktionen nach UWG/MStV); private Instanzen (Follower-Abwanderung, Reputationsverlust, Kooperationsverlust mit anderen Marken); moralische Instanz (Eigenstandards, berufsethische Codes, Gewissen).
+
+**Adressat:** Unmittelbar: Follower (Vertrauensbeziehung); Mittelbar: vulnerable Gruppen (Jugendliche, suchtgefährdete Personen bei Glücksspielwerbung).
+
+**Regelwerk:** Gesetzliche Normen (UWG, MStV, JuSchG), Plattform-AGB (YouTube/Instagram Community Guidelines), berufsständische Codes (IG Influencer Kodex), persönliche Integritätsstandards.
+
+**Implikation:** Das Vertrauensverhältnis zwischen Influencer und Community stellt eine besondere Form sozialer Verantwortung dar. Wenn Influencer ihre Glaubwürdigkeit — aufgebaut durch Authentizität und parasoziale Bindung — für ethisch sensible Produkte einsetzen, nutzen sie bewusst den Mechanismus der peripheren Routen-Verarbeitung aus. Transparenz über bezahlte Partnerschaften kann kurzfristig das Vertrauen reduzieren, langfristig jedoch die Glaubwürdigkeit stärken (Schouten et al., 2020).
 
 #### 6.3 Regulatorische und verbraucherschutzbezogene Implikationen
 
-Aus verbraucherschutzperspektive legen die theoretischen Erkenntnisse nahe, dass die Förderung von Medienkompetenz ein wirksames Mittel zur Stärkung der Urteilsfähigkeit der Rezipient\*innen darstellt. Wenn Rezipient\*innen verstehen, dass ihre kognitive Elaboration durch periphere Cues wie Influencer-Glaubwürdigkeit reduziert wird, können sie Werbeinhalte kritischer bewerten. Für besonders sensible Produktkategorien — wie exemplarisch am Glücksspiel gezeigt — sollten verschärfte Transparenz- und Altersbeschränkungsregelungen gelten (Griffiths, 2005).
+**Subjekt:** Staatliche Regulierer, Plattformbetreiber, Verbraucherschutzorganisationen.
 
+**Objekt:** Verantwortung für Rahmensetzung (transparence requirements), Überwachung der Einhaltung rechtlicher Standards, Förderung von Medienkompetenz, Schutz vulnerable Gruppen (Altersbeschränkungen).
+
+**Instanz:** Gesetzgebende Körperschaften (Bundestag, Landesmedienanstalten), Justiz (Strafverfolgung bei Verstößen), Öffentlichkeit ( investigative Journalisten, Civil Society).
+
+**Adressat:** Gesamte Follower-Community; speziell: Minderjährige, suchtgefährdete Personen, kognitiv vulnerablen Gruppen durch starke parasoziale Bindungen.
+
+**Regelwerk:** Gesetze (UWG, MStV, Glücksspielstaatsvertrag, JuSchG), EU-Richtlinien (Digital Services Act), Plattform-Guidelines, Verbraucherschutzstandards.
+
+**Implikation:** Aus verbraucherschutzperspektive legen die theoretischen Erkenntnisse nahe, dass Medienkompetenz-Förderung ein wirksames Mittel zur Stärkung der Urteilsfähigkeit der Rezipienten darstellt. Wenn Rezipienten verstehen, dass ihre kognitive Elaboration durch periphere Cues wie Influencer-Glaubwürdigkeit reduziert wird, können sie Werbeinhalte kritischer bewerten. Für besonders sensible Produktkategorien — exemplarisch am Glücksspiel — sollten verschärfte Transparenz- und Altersbeschränkungsregelungen gelten (Griffiths, 2005).
+
+#### 6.4 Konsumentenverantwortung als komplementäre Ebene
+
+Obwohl Konsumenten nicht primäre Verantwortungsträger sind, ergänzt ihre Eigenverantwortung die strukturellen Schutzmaßnahmen:
+
+**Subjekt:** Individuelle Konsumenten als kompetente Entscheidungsträger.
+
+**Objekt:** Aktive Informationsbeschaffung, kritische Reflexion, selbstbestimmte Entscheidung. *Einschränkung:* Die Informationsasymmetrie und periphere Verarbeitung (ELM) reduziert die effektive Verantwortungsfähigkeit bei ethisch sensiblen Produkten.
+
+**Instanz:** Privat (eigenes Risikobewusstsein, finanzielle Konsequenzen); öffentlich (Verbraucherschutzorganisationen).
+
+**Adressat:** Eigene Person (Selbstschutz, finanzielle Absicherung), Familie (Solidarität).
+
+**Regelwerk:** Persönliche Risikoaversion, Konsumethik, Informationsverhalten.
+
+**Implikation:** Die systematische Reduktion kognitiver Elaboration durch Glaubwürdigkeit (H2) begrenzt die Effektivität individualisierter Konsumentenverantwortung. Dies legitimiert staatliche Schutzmaßnahmen und Sorgfaltspflichten von Unternehmen/Influencern (vgl. Jonas 1979: Prinzip der Handlungsmacht korreliert mit Verantwortungspflicht).
 ### 7. Zeitplan
 
 | Woche | Arbeitsschritt |
